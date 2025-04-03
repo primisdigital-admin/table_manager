@@ -10,6 +10,7 @@ Tested up to: 6.7.2
 Requires PHP: 7.4
 License: GNU General Public License v3.0 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Plugin Icon: assets/icon.png
 
 Table Manager plugin helps to create table from wordpress posts, page.
 
