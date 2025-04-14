@@ -1,0 +1,11 @@
+.tablemanager-frontend-table table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tablemanager-frontend-table th,
+.tablemanager-frontend-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
